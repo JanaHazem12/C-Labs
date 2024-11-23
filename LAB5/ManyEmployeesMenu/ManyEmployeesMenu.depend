@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732140897 source:c:\users\jana\desktop\lab5\manyemployeesmenu\main.c
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
