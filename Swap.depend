@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732365150 source:c:\users\jana\desktop\lab6\lab 6\swap\main.c
+	<stdio.h>
+	<stdlib.h>
+
