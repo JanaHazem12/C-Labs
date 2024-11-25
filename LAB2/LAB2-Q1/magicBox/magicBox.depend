@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731970235 source:c:\users\jana\desktop\lab2\lab2-q1\magicbox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Conio.h>
+	<Windows.h>
+
